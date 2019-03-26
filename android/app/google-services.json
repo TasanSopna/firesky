@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454877270238",
+    "project_id": "nu-timesheet-app-1519043051700"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454877270238:android:4eeb093a3a51920f",
+        "android_client_info": {
+          "package_name": "com.nutimesheetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454877270238-b72162g0082dipg1ckhjib3m19ff0fei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nutimesheetapp",
+            "certificate_hash": "df874a08a9755ebc251487c85c0fff1c1bfa5b99"
+          }
+        },
+        {
+          "client_id": "454877270238-4pd4lvnkr5uipgi2d2j96i7aiie9v36a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGECb4xGq4sUv-eoLMd9QqndNnL11F4mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
